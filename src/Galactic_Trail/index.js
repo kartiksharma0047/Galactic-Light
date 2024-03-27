@@ -1,6 +1,6 @@
 import './index.css';
 
-document.querySelector("#app").innerHTML = "<canvas> </canvas>";
+document.querySelector("#app").innerHTML = "<h1>Long Press Screen</h1> <canvas> </canvas>";
 document.title = "Galactic Light"
 
 let canvas = document.querySelector("canvas");
